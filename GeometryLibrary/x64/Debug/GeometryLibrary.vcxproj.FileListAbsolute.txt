@@ -1,0 +1,2 @@
+D:\Work\Kod\Workspaces\cpp\GeometryLibrary\x64\Debug\GeometryLibrary.lib
+D:\Work\Kod\Workspaces\cpp\Geometry\GeometryLibrary\x64\Debug\GeometryLibrary.lib

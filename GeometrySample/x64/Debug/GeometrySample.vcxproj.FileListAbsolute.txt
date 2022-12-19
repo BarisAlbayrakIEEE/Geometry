@@ -1,0 +1,2 @@
+D:\Work\Kod\Workspaces\cpp\GeometrySample\x64\Debug\GeometrySample.exe
+D:\Work\Kod\Workspaces\cpp\Geometry\GeometrySample\x64\Debug\GeometrySample.exe
